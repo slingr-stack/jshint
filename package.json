@@ -53,7 +53,7 @@
     "browserify": "9.x",
     "conventional-changelog": "0.4.x",
     "conventional-github-releaser": "0.4.x",
-    "coveralls": "2.11.x",
+    "coveralls": "3.1.x",
     "istanbul": "0.3.x",
     "jscs": "1.11.x",
     "mock-stdin": "0.3.x",
